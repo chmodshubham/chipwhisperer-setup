@@ -1,2 +1,8 @@
 chipwhisperer/
+chipwhisperer-jupyter/
+hqc/
 __pycache__/
+firmware/*/objdir-*/
+firmware/*/*-CWHUSKY.*
+firmware/*/Makefile.platform
+.vscode/*
